@@ -7,10 +7,15 @@ Este proyecto implementa una **página web estática** dentro de un contenedor D
 
 ## Estructura del proyecto
 proyecto_web/
+
 ├── src/
+
 │ └── index.html
+
 ├── Dockerfile
+
 ├── deployment.yaml
+
 └── README.md
 
 
